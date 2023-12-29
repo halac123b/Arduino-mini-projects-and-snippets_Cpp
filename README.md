@@ -1,4 +1,7 @@
-<p>Read data from DHT22 humid and temperature sensor, then send result to Adafruit</p>
-<!-- Tutorial Link: https://learn.adafruit.com/adafruit-io-basics-temperature-and-humidity -->
+# Arduino mini projects and snippets - C++
 
-<img src="board.png">
+<p>Folder list:</p>
+<ol>
+  <li>DHT22 Temp & Humid sensor, publish to Adafruit IO</li>
+</ol>
+
